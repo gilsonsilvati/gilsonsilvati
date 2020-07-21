@@ -14,11 +14,12 @@
 
 ### Principais Habilidades
 
-- [x] Java | Spring | Quarkus
-- [x] Angular | TypeScript
-- [x] TDD
-- [x] Thymeleaf
-- [x] HTML | CSS
+- [x] Java | Spring | Quarkus | JPA
+- [x] Angular | TypeScript | NodeJS
+- [x] TDD | JUnit | Mockito
+- [x] SVN | GIT | Gitflow
+- [x] Thymeleaf | HTML | CSS | Bootstrap
 - [x] Postgres | Oracle | SQL Server | MySQL | MongoDB
+- [x] Maven | Gradle
 
-<br/>Obrigado por ler até aqui e não se esqueça de me adicionar no LinkedIn.
+<br/>Obrigado por ler até aqui e não se esqueça de me adicionar no LinkedIn e me seguir aqui no GitHub.
