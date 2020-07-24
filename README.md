@@ -4,13 +4,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilsonsilvati@gmail.com)](mailto:gilsonsilvati@gmail.com/)
 <br/>
 
-### Olá, pessoALL 👋
+### Olá pessoALL, sejam bem-vindos ao meu GitHub 👋
 
-<br/>Meu nome é Gilson, sou Analista Desenvolvedor.
+<br/>Meu nome é Gilson, sou Analista Desenvolvedor na DTI/PF pela Qintess.
 
-<br/>.📚 Pós-Graduando em Arquitetura de Software Distribuído.
+<br/>.📚 Pós Graduando em Arquitetura de Software Distribuído.
 <br/>.🎓 Bacharel em Sistemas de Informação.
-<br/>.🌱 Atualmente estou aprendendo mais Spring Boot, Quarkus, Angular, NodeJS, TDD, DevOps e metodologias ágeis.
+<br/>.🌱 Atualmente estou aprendendo mais Spring Boot, Quarkus, Angular/TypeScript, NodeJS, TDD, DevOps e metodologias ágeis.
 
 ### Principais Habilidades
 
