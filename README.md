@@ -4,6 +4,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilsonsilvati@gmail.com)](mailto:gilsonsilvati@gmail.com/)
 <br/>
 
+<p>
+  <img src="http://views.whatilearened.today/views/github/gilsonsilvati/views.svg" />
+  <img src="https://img.shields.io/badge/Front End-Angular-f55247" />
+  <img src="https://img.shields.io/badge/Back End-Java-f55247" />
+  <a href="https://github.com/gilsonsilvati/">
+    <img src="https://img.shields.io/github/followers/gilsonsilvati?color=%234CC61E&label=GitHub%20Followers%20%3A" />
+  </a>
+  <a href="https://github.com/gilsonsilvati?tab=repositories">
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+  </a>
+</p>
+
 ### Olá pessoALL, sejam bem-vindos ao meu GitHub 👋
 
 <br/>Meu nome é Gilson, sou Analista Desenvolvedor na DTI/PF pela Qintess.
@@ -12,14 +24,13 @@
 <br/>.🎓 Bacharel em Sistemas de Informação.
 <br/>.🌱 Atualmente estou aprendendo mais Spring Boot, Quarkus, Angular/TypeScript, NodeJS, TDD, DevOps e metodologias ágeis.
 
-### Principais Habilidades
-
-- [x] Java | Spring | Quarkus | JPA
-- [x] Angular | TypeScript | NodeJS
-- [x] TDD | JUnit | Mockito
-- [x] SVN | GIT | Gitflow
-- [x] Thymeleaf | HTML | CSS | Bootstrap
-- [x] Postgres | Oracle | SQL Server | MySQL | MongoDB
-- [x] Maven | Gradle
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonsilvati&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gilsonsilvati&show_icons=true&theme=radical" /></td>
+    </tr>   
+  </table>
+</center>
 
 <br/>Obrigado por ler até aqui e não se esqueça de me adicionar no LinkedIn e me seguir aqui no GitHub.
