@@ -21,6 +21,8 @@
 <br/>Meu nome é Gilson, sou Analista Desenvolvedor na DTI/PF pela Qintess.
 
 <br/>.📚 Pós Graduando em Arquitetura de Software Distribuído.
+<br/>.📚 Pós Graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Software.
+<br/>.📚 Pós Graduando em Desenvolvimento Orientado a Objetos em Java.
 <br/>.🎓 Bacharel em Sistemas de Informação.
 <br/>.🌱 Atualmente estou aprendendo mais Spring Boot, Quarkus, Angular/TypeScript, NodeJS, TDD, DevOps e metodologias ágeis.
 
