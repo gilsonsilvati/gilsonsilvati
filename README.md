@@ -18,7 +18,7 @@
 
 ### Olá pessoALL, sejam bem-vindos ao meu GitHub 👋
 
-<br/>Meu nome é Gilson, sou Analista Desenvolvedor na DTI/PF pela Qintess.
+<br/>Meu nome é Gilson, sou Engenheiro de Software na CI&T.
 
 <br/>.📚 Pós Graduando em Arquitetura de Software Distribuído.
 <br/>.📚 Pós Graduando em Engenharia de Software com Ênfase em Qualidade e Teste de Software.
