@@ -6,7 +6,6 @@
 
 <p>
   <img src="http://views.whatilearened.today/views/github/gilsonsilvati/views.svg" />
-  <img src="https://img.shields.io/badge/Front End-Angular-f55247" />
   <img src="https://img.shields.io/badge/Back End-Java-f55247" />
   <a href="https://github.com/gilsonsilvati/">
     <img src="https://img.shields.io/github/followers/gilsonsilvati?color=%234CC61E&label=GitHub%20Followers%20%3A" />
@@ -16,11 +15,14 @@
   </a>
 </p>
 
-### Olá pessoALL, sejam bem-vindos ao meu GitHub 👋
+<div>
+  <h1 align="center"><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
+</div>
 
-<br/>Meu nome é Gilson, sou Engenheiro de Software na CI&T.
+<p align="center">
+  <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
+</p>
 
-<br/>.🎓 Bacharel em Sistemas de Informação.
 
 ### 🚀 Languages and Tools:</summary>
 
@@ -45,7 +47,6 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle"/></code>
 <img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular" alt="Angular"/>
 <img width="25" height="25" src="https://github.com/simple-icons/simple-icons/blob/master/icons/flyway.svg" title="FlyWay" alt="FlyWay"/>
 </p>
 
