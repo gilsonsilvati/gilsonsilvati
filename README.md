@@ -1,6 +1,6 @@
 # Gilson Silva :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilsoncostadasilva/)](https://www.linkedin.com/in/gilsoncostadasilva/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilson-costa-silva/)](https://www.linkedin.com/in/gilson-costa-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilsonsilvati@gmail.com)](mailto:gilsonsilvati@gmail.com/)
 <br/>
 
