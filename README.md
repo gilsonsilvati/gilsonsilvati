@@ -1,19 +1,18 @@
 # Gilson Silva :man_technologist:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilson-costa-silva/)](https://www.linkedin.com/in/gilson-costa-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilsonsilvati@gmail.com)](mailto:gilsonsilvati@gmail.com/)
 <br/>
 
-<p>
-  <img src="http://views.whatilearened.today/views/github/gilsonsilvati/views.svg" />
-  <img src="https://img.shields.io/badge/Back End-Java-f55247" />
-  <a href="https://github.com/gilsonsilvati/">
-    <img src="https://img.shields.io/github/followers/gilsonsilvati?color=%234CC61E&label=GitHub%20Followers%20%3A" />
-  </a>
-  <a href="https://github.com/gilsonsilvati?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
-  </a>
-</p>
+<h3> 
+  <br/>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/gilson-costa-silva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
+    <a href="mailto:gilsonsilvati@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
+</h3>
 
 <div>
   <h1 align="center"><𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h1>
@@ -23,41 +22,28 @@
   <img height="520px" src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 </p>
 
+# 🔧 Tech Stack
+<div align="center">
 
-### 🚀 Languages and Tools:</summary>
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Shell Script](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left">
-<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/kotlin_logo.png" title="Kotlin" alt="Kotlin" /></code>
-<img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
-<img width="25" height="25" src="https://github.com/gilbarbara/logos/blob/main/logos/quarkus-icon.svg" title="Quarkus" alt="Quarkus" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" title="Travis CI" alt="Travis CI" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
-<img width="25" height="25" src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" title="Insomnia" alt="Insomnia" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Microsoft Azure" alt="Microsoft Azure" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" alt="Oracle"/></code>
-<img width="22" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img width="25" height="25" src="https://github.com/simple-icons/simple-icons/blob/master/icons/flyway.svg" title="FlyWay" alt="FlyWay"/>
-</p>
-
-#
-
-### ⚡ Github Stats</b></summary>
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsonsilvati&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=default"/>	
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsonsilvati&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
-</div>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gilsonsilvati&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" />
 </div>
 
-<br/>Obrigado por ler até aqui e não se esqueça de me adicionar no LinkedIn e me seguir aqui no GitHub.
+# &#x1f4c8; GitHub Stats
+
+<div align="center" style="display:flex;flex-direction:column">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsonsilvati&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gilsonsilvati&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilsonsilvati&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsonsilvati&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gilsonsilvati&theme=yeblu&utcOffset=8)
+
+</div>
